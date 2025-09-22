@@ -1,0 +1,12 @@
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large / sensitive files
+captures/
+snapshots/
+*.pcap
+*.pcapng
+*.log
