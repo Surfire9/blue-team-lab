@@ -12,10 +12,20 @@ This repository documents my journey into **Blue Team cybersecurity** — from T
 ## 🚀 Goal
 To build practical, demonstrable skills for SOC/Blue Team roles, and maintain a professional portfolio of work.
 
+## 🌟 Portfolio Highlights
+A few selected artifacts from this repo that demonstrate Blue Team skills:
 
+- **[SSH Brute Force Detection Playbook](03-Home-Lab/detection-playbook-ssh-bruteforce.md)** 
+  Walkthrough of detecting SSH brute force attacks with Splunk/ELK queries, investigation steps, and response actions.
 
+- **[Incident Report — SSH Brute Force](02-SOC-L1/incidents/incident-2025-09-ssh-bruteforce-example.md)** 
+  Sample SOC L1-style incident report, including detection source, investigation, and recommendations.
 
+- **[Wazuh Setup Notes](03-Home-Lab/wazuh-setup.md)** 
+  Documentation of deploying Wazuh in a home lab, capturing logs, and testing alerts.
 
+- **[Git Workflow & Sanitization Tools](05-Resources/git-cheatsheet.md)** 
+  Practical Git workflow guide and sanitization scripts to maintain professional, recruiter-safe repos.
 
 ## 🔮 Planned Features / Roadmap
 
